@@ -1,1 +1,1 @@
-# Rock-Image-CLassification
+# Rock-Image-Classification
